@@ -1,0 +1,22 @@
+<suite name="project name_Testing" >
+	<test name="Testcase_ID" allow-return-values="true">
+		<classes>
+			<class name="selenium1.TestNGdatainsert" />
+		</classes>
+	</test>
+	<test name="Testcase_ID1" allow-return-values="true">
+		<classes>
+			<class name="selenium1.TestNgexaple" />
+		</classes>
+	</test>
+<test name="Testcase_ID2" allow-return-values="true">
+		<classes>
+			<class name="selenium1.Softassert" /> 
+		</classes>
+	</test>
+<test name="Testcase_ID3" allow-return-values="true">
+		<classes>
+			<class name="selenium1.Assertfunction" /> 
+		</classes>
+	</test>
+</suite>
